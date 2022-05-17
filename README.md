@@ -8,5 +8,5 @@ Then reboot's for changes to take effect.
 
 ## Script 02
 Installs software from Flathub rather than using Snap's.
-To search for software either use the online GUI (https://flathub.com/), or you can use the command "flatpak search [aplication name]" in the CLI of the terminal.
+To search for software either use the online GUI (https://flathub.com/), or you can use the command "flatpak search [aplication name]" in the CLI of the terminal. Then add the Application ID the CLI returns to the command, and your good to go!
 
