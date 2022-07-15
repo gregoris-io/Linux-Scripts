@@ -41,4 +41,4 @@ flatpak install com.visualstudio.code -y
 flatpak install flathub us.zoom.Zoom -y
 
 ##Install Discord
-flatpak install flathub app/com.discordapp.Discord/x86_64/stable
+flatpak install flathub app/com.discordapp.Discord/x86_64/stable -y
