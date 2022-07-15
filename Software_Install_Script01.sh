@@ -10,6 +10,7 @@
 sudo apt update
 
 ##Upgrade System##
+sudo apt upgrade
 
 ## Install curl
 sudo apt install curl
